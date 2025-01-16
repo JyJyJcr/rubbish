@@ -69,6 +69,7 @@ e. Bondygin Yenal Bond
 
 答えはこれ
 
+```txt
 1. 母が肉を食べた Momos Yen Bondyg
 2. 私がリンゴを買った Xosal Stomyg
 3. 母が食べたリンゴをあなたが買った Momos Bondyg Xosin Stomyg
@@ -78,6 +79,7 @@ b. Xosin Bondyg あなたがリンゴを食べた
 c. Kerel Stomyg Yenal Bondyg 王が買ったリンゴを私が食べた
 d. Bondygal Xosin Stom 私が食べたリンゴをあなたが買う
 e. Bondygin Yenal Bond あなたが食べた肉を私が食べる
+```
 
 備忘的解説
 
