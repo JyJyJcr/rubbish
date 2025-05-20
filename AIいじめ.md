@@ -100,5 +100,6 @@ e. Bondygin Yenal Bond あなたが食べた肉を私が食べる
   - (二人称) (一人称) Stomygal (食べる+一人称) Yenin(リンゴ+二人称) Bondyg(食べる+過去) 私が買ったリンゴをあなたが食べた
     - Yenin Bondyg <- Yenal Stomyg
 
-Chatgptはてんでだめ(Xosalを一人称代名詞だと思い続け、Xosal Xos Bondみたいなのを返してくる)
+~~Chatgptはてんでだめ(Xosalを一人称代名詞だと思い続け、Xosal Xos Bondみたいなのを返してくる)~~@KEY271の協力により、推論をオンにしてやらせると解けるまでに向上していることがわかった(2025/05/20)
+
 Geminiは目的概ね合ってることを言ってくるが、推測させた文法はめちゃくちゃで、理解が怪しいのをベイズだけで乗り切っている節がある、そのせいか設問4ではXosalを一人称代名詞として使う回答を投げてくる(Xosal Stomyg Xosin Stom)
